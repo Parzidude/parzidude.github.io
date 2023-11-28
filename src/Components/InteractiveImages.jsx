@@ -3,14 +3,14 @@ import "./Image.css";
 
 const InteractiveImages = ({
   img = [
-    "./src/assets/image1.jpg",
-    "./src/assets/image2.jpg",
-    "./src/assets/image3.jpg",
-    "./src/assets/image4.jpg",
-    "./src/assets/image1.jpg",
-    "./src/assets/image2.jpg",
-    "./src/assets/image3.jpg",
-    "./src/assets/image4.jpg",
+    "/public/image1.jpg",
+    "/public/image2.jpg",
+    "/public/image3.jpg",
+    "/public/image4.jpg",
+    "/public/image1.jpg",
+    "/public/image2.jpg",
+    "/public/image3.jpg",
+    "/public/image4.jpg",
   ],
 }) => {
   return (
@@ -20,7 +20,7 @@ const InteractiveImages = ({
           return (
             <button key={index}>
               <img
-                src="./src/assets/image1.jpg"
+                src="/public/image1.jpg"
                 className="buttonimage"
                 alt="img"
               ></img>
