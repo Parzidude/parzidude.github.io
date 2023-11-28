@@ -1,10 +1,10 @@
 import ImageCarousel from "../Components/ImageCarousel";
 
 const images = [
-  "./src/assets/image1.JPG",
-  "./src/assets/image2.JPG",
-  "./src/assets/image3.JPG",
-  "./src/assets/image4.JPG",
+  "./src/assets/image1.jpg",
+  "./src/assets/image2.jpg",
+  "./src/assets/image3.jpg",
+  "./src/assets/image4.jpg",
 ];
 
 function HeadingSlide() {
