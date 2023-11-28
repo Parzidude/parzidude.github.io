@@ -3,14 +3,14 @@ import "./Image.css";
 
 const InteractiveImages = ({
   img = [
-    "/public/image1.jpg",
-    "/public/image2.jpg",
-    "/public/image3.jpg",
-    "/public/image4.jpg",
-    "/public/image1.jpg",
-    "/public/image2.jpg",
-    "/public/image3.jpg",
-    "/public/image4.jpg",
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg",
+    "image4.jpg",
+    "image1.jpg",
+    "image2.jpg",
+    "image3.jpg",
+    "image4.jpg",
   ],
 }) => {
   return (
@@ -19,11 +19,7 @@ const InteractiveImages = ({
         {img.map((image, index) => {
           return (
             <button key={index}>
-              <img
-                src="/public/image1.jpg"
-                className="buttonimage"
-                alt="img"
-              ></img>
+              <img src="image1.jpg" className="buttonimage" alt="img"></img>
             </button>
           );
         })}
