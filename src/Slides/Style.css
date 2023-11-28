@@ -1,0 +1,54 @@
+body{
+    margin: 0;
+}
+
+.headingslide{
+    background-color:black;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+
+}
+
+.downarrow{
+    margin: 0;
+    width: 100px;
+    height: 50px;
+    font-size: 40px;
+    color: white;
+    appearance: none;
+    border-style: none;
+    border-width: 0px;
+    border-color: black;
+    border-image: none;
+    animation:bounce2 2s ease infinite;
+}
+
+@keyframes bounce2 {
+	0%, 20%, 50%, 80%, 100% {transform: translateY(0);}
+	40% {transform: translateY(-30px);}
+	60% {transform: translateY(-15px);}
+}
+
+
+.headingtextcontainer{
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    z-index: 100;
+    text-align: center;
+    margin-bottom:10vh;
+}
+
+.headingtitle{
+    font-size: 100px;
+    color: white;
+    margin: 0;
+}
+.headingtext{
+    font-size: 40px;
+    color: white;
+}
+

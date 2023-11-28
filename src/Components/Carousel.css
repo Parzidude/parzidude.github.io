@@ -1,0 +1,19 @@
+
+  .carousel{
+    display: flex;
+    max-width: auto;
+    align-items: center;
+    justify-content: space-evenly;
+    gap:10px;
+    transition: transform 20s ease-in-out;
+    filter: blur(9px);
+    margin: 0;
+  }
+  .carousel-image {
+    display: block;
+    height: 80vh;
+    max-width: 750px;
+    object-fit: cover;
+  }
+
+  
