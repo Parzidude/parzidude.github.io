@@ -3,7 +3,6 @@ import "./Carousel.css";
 
 function ImageCarousel({ images, imageheight = "100vh" }) {
   const [currentIndex, setCurrentIndex] = useState((images.length - 1) / 2);
-  const [prevIndex, setPrevIndex] = useState(0);
 
   useEffect(() => {
     const carousel = document.querySelector(".carousel");

@@ -12,12 +12,24 @@ body{
 
 }
 
+h1{
+    color: #FAF9F6;
+    font-family: 'Ephesis', cursive;
+    font-size: 55px;
+}
+
+p{
+    color: #FAF9F6;
+    font-family: 'Ephesis', cursive;
+    font-size: 30px;
+}
+
 .downarrow{
     margin: 0;
     width: 100px;
     height: 50px;
     font-size: 40px;
-    color: white;
+    color: #FAF9F6;
     appearance: none;
     border-style: none;
     border-width: 0px;
@@ -44,11 +56,11 @@ body{
 
 .headingtitle{
     font-size: 100px;
-    color: white;
+    color: #FAF9F6;
     margin: 0;
 }
 .headingtext{
     font-size: 40px;
-    color: white;
+    color: #FAF9F6;
 }
 

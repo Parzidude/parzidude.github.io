@@ -1,6 +1,6 @@
 import ImageCarousel from "../Components/ImageCarousel";
 
-const images = ["image1.jpg", "image2.jpg", "image3.jpg", "image4.jpg"];
+const images = ["image3.jpg", "image3.jpg", "image3.jpg", "image4.jpg"];
 
 function HeadingSlide() {
   return (
