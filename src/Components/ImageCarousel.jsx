@@ -1,4 +1,5 @@
 import React, { useState, useEffect } from "react";
+import PropTypes from "prop-types";
 import "./Carousel.css";
 
 function ImageCarousel({ images, imageheight = "100vh" }) {
@@ -54,5 +55,8 @@ function ImageCarousel({ images, imageheight = "100vh" }) {
     </div>
   );
 }
-
+ImageCarousel.propTypes = {
+  images: PropTypes.array,
+  imageheight: PropTypes.string,
+};
 export default ImageCarousel;

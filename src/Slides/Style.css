@@ -14,20 +14,18 @@ body{
 
 h1{
     color: #FAF9F6;
-    font-family: 'Ephesis', cursive;
+    font-family: 'Dancing Script', cursive;
     font-size: 55px;
 }
 
 p{
     color: #FAF9F6;
-    font-family: 'Ephesis', cursive;
+    font-family: 'Roboto', sans-serif;
     font-size: 30px;
 }
-
+.slide{position: relative;}
 .downarrow{
     margin: 0;
-    width: 100px;
-    height: 50px;
     font-size: 40px;
     color: #FAF9F6;
     appearance: none;
@@ -52,15 +50,19 @@ p{
     z-index: 100;
     text-align: center;
     margin-bottom:10vh;
+    margin-left: 3%;
+    margin-right: 3%;
 }
 
 .headingtitle{
-    font-size: 100px;
+    font-size: 80px;
     color: #FAF9F6;
     margin: 0;
+
 }
 .headingtext{
-    font-size: 40px;
+    margin-top: 5%;
+    font-size: 20px;
     color: #FAF9F6;
 }
 

@@ -1,0 +1,61 @@
+{
+    "polaroidheadingcolor":"black",
+    "polaroidtextcolor":"black",
+    "polaroidcolor": "#9DD9D2",
+    "BackgroundImage":"black-golden-colored-wallpaper.jpg",
+    "YearHeading":"Year 10 - 2023",
+    "Yearsubhead":"Silver",
+    "info":[
+        {
+            "imageurl": "/images/Y10/1.jpg",
+            "infoheading": "test",
+            "infotext": "This is one of our first pictures together (probably ever). I think it was takes at stage 51. Its the beginning of something really beautiful.",
+            "infoimageoffset":"0px 0px"
+        },
+        {
+            "imageurl": "/images/Y10/2.jpg",
+            "infoheading": "test",
+            "infotext": "X Factor. At the time i was kinda apprehensive about it. But at the same time back then and even know i was soo so proud of you for doing this. You have the strength to do things i could never even attempt."
+        },
+        {
+            "imageurl": "/images/Y10/3.jpg",
+            "infoheading": "test",
+            "infotext": "Simona took this picture. I remember it as a fun time even though i am not completely sure what we were doing. We look great though :3."
+        },
+        {
+            "imageurl": "/images/Y10/4.jpg",
+            "infoheading": "test",
+            "infotext": "SANTA! This is the first time i met this guy i remember him being super cool. He gave me some compliments too."
+        },
+        {
+            "imageurl": "/images/Y10/5.jpg",
+            "infoheading": "test",
+            "infotext": "50 shades. Do i even need to go into detail why we went to see the movie. I remember us both being into the books. Also those books in many ways influenced parts of our relationship (mr bean with eyebrows gif)"
+        },
+        {
+            "imageurl": "/images/Y10/6.jpg",
+            "infoheading": "test",
+            "infotext": "Our first “Аз мога” together. We were such small kids back then. I remember the cake and burning the couch in the lil house."
+        },
+        {
+            "imageurl": "/images/Y10/7.jpg",
+            "infoheading": "test",
+            "infotext": "I AM IN THIS PICTURE. I came to support you even though i remember being scared to death of all the unknowns. You were wonderful and i found out i like concerts."
+        },
+        {
+            "imageurl": "/images/Y10/8.jpg",
+            "infoheading": "test",
+            "infotext": "Wait?? What do you mean thats not a picture of you and me??"
+        },
+        {
+            "imageurl": "/images/Y10/9.jpg",
+            "infoheading": "test",
+            "infotext": "This is one of the many random pictures we have together. I dont remember the exact day and i dont remember what we did. But we are super cute."
+        },
+        {
+            "imageurl": "/images/Y10/10.jpg",
+            "infoheading": "test",
+            "infotext": "Your first birthday where we were together. It was the perfect birthday. Ate good pizza, laughed and drank (good?) beer later."
+        }
+    ]
+}
