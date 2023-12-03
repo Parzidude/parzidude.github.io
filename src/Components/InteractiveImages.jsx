@@ -1,8 +1,6 @@
 import React, { useState, useEffect, useRef } from "react";
 import PropTypes from "prop-types";
 
-//TODO make info image able to show itself in original size on click
-
 const InteractiveImages = ({ data, buttonclicks }) => {
   const [randomNumArray, setRandomNumArray] = useState([]);
 

@@ -1,6 +1,7 @@
 import Fullpage, {
   FullPageSections,
   FullpageSection,
+  FullpageNavigation,
 } from "@ap.cx/react-fullpage";
 import HeadingSlide from "./HeadingSlide";
 import "./Style.css";
@@ -20,6 +21,7 @@ import Slide from "../Slides/Slide";
 export default function PageSlides() {
   return (
     <Fullpage>
+      {/* <FullpageNavigation  /> */}
       <FullPageSections>
         <FullpageSection>
           <HeadingSlide />

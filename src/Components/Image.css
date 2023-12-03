@@ -91,7 +91,7 @@
     left:50%;
     background-color: #9DD9D2;
     width: 90%;
-    z-index: 100;
+    z-index: 110;
     text-align: center;
     border-radius: 10px;
     transition: .2s;
@@ -118,8 +118,8 @@
 
 .infobox>p{
     color: black;
-    font-size: 18px;
-    margin: 10px 20px 20px 20px;
+    font-size: 20px;
+    margin: 20px 20px 20px 20px;
     min-height: 50px;
     max-height: 200px;
     text-align: left;
@@ -154,6 +154,22 @@
     height: 100vh;
     display: flex;
     gap: 70px;
+}
+
+.bigimage{
+    visibility: hidden;
+    position: absolute;
+    border-radius: 5%;
+    transform: translate(-50%, -50%);
+    top:50%;
+    left: 50%;
+    height: 90%;
+    width: 90%;
+    z-index: 999;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    pointer-events: none;
 }
 
 
