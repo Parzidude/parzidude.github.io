@@ -1,61 +1,62 @@
 {
     "polaroidheadingcolor":"black",
     "polaroidtextcolor":"black",
-    "polaroidcolor": "#9DD9D2",
-    "BackgroundImage":"/images/Y1/Y1Bg.jpg",
+    "polaroidcolor": "#C7CEDB",
+    "BackgroundImage":"/images/Y7/Y7Bg.jpg",
     "YearHeading":"Year 7 - 2020",
     "Yearsubhead":"Fun during a pandemic",
     "info":[
         {
             "imageurl": "/images/Y7/1.jpg",
             "infoheading": "test",
-            "infotext": "This is one of our first pictures together (probably ever). I think it was takes at stage 51. Its the beginning of something really beautiful.",
+            "infotext": "And so this year began quarantine. It wasnt from this picture but this year was when it started. The picture is hella cute and you look like Marzia.",
             "infoimageoffset":"0px 0px"
         },
         {
             "imageurl": "/images/Y7/2.jpg",
             "infoheading": "test",
-            "infotext": "X Factor. At the time i was kinda apprehensive about it. But at the same time back then and even know i was soo so proud of you for doing this. You have the strength to do things i could never even attempt."
+            "infotext": "Covid was hard. But sometimes there were really cool things like this that made it all better. I am in awe of your creativity."
         },
         {
             "imageurl": "/images/Y7/3.jpg",
             "infoheading": "test",
-            "infotext": "Simona took this picture. I remember it as a fun time even though i am not completely sure what we were doing. We look great though :3."
+            "infotext": "Bet you didnt see this one coming. BIRTHDAY PIC!!!"
         },
         {
             "imageurl": "/images/Y7/4.jpg",
             "infoheading": "test",
-            "infotext": "SANTA! This is the first time i met this guy i remember him being super cool. He gave me some compliments too."
+            "infotext": "Again with the pointing."
         },
         {
             "imageurl": "/images/Y7/5.jpg",
             "infoheading": "test",
-            "infotext": "50 shades. Do i even need to go into detail why we went to see the movie. I remember us both being into the books. Also those books in many ways influenced parts of our relationship (mr bean with eyebrows gif)"
+            "infotext": "Second trip to Turnovo. We went to some really cool museums and places. The museum with the magical stuff was especially fun. But everything about these trips is fun."
         },
         {
             "imageurl": "/images/Y7/6.jpg",
             "infoheading": "test",
-            "infotext": "Our first “Аз мога” together. We were such small kids back then. I remember the cake and burning the couch in the lil house."
+            "infotext": "The big one! Here it is! Pride cannot even begin to describe what i felt when this happened. You did amazing with hese photos and i remember how hard you worked for it."
         },
         {
             "imageurl": "/images/Y7/7.jpg",
             "infoheading": "test",
-            "infotext": "I AM IN THIS PICTURE. I came to support you even though i remember being scared to death of all the unknowns. You were wonderful and i found out i like concerts."
+            "infotext": "Look at you blooming :3.",
+            "infoimageoffset":"0px -100px"
         },
         {
             "imageurl": "/images/Y7/8.jpg",
             "infoheading": "test",
-            "infotext": "Wait?? What do you mean thats not a picture of you and me??"
+            "infotext": "This is Turnovo again. I just remembered while writing this. It was in a random house on the side of the street with mirrors."
         },
         {
             "imageurl": "/images/Y7/9.jpg",
             "infoheading": "test",
-            "infotext": "This is one of the many random pictures we have together. I dont remember the exact day and i dont remember what we did. But we are super cute."
+            "infotext": "This was such a meaningful trip for you. Not only did you get to go to England but you overcame so much and showed such bravery."
         },
         {
             "imageurl": "/images/Y7/10.jpg",
             "infoheading": "test",
-            "infotext": "Your first birthday where we were together. It was the perfect birthday. Ate good pizza, laughed and drank (good?) beer later."
+            "infotext": "I didnt get my letter you cant leave me!"
         }
     ]
 }

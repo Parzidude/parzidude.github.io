@@ -1,61 +1,62 @@
 {
     "polaroidheadingcolor":"black",
     "polaroidtextcolor":"black",
-    "polaroidcolor": "#9DD9D2",
-    "BackgroundImage":"/images/Y1/Y1Bg.jpg",
+    "polaroidcolor": "#C7CEDB",
+    "BackgroundImage":"/images/Y4/Y4Bg.jpg",
     "YearHeading":"Year 4 - 2017",
+    "headingcolor": "black",
     "Yearsubhead":"Blooming beauty",
     "info":[
         {
             "imageurl": "/images/Y4/1.jpg",
             "infoheading": "test",
-            "infotext": "This is one of our first pictures together (probably ever). I think it was takes at stage 51. Its the beginning of something really beautiful.",
+            "infotext": "Well i guess you took a picture with a random tiger. Idk where i was??",
             "infoimageoffset":"0px 0px"
         },
         {
             "imageurl": "/images/Y4/2.jpg",
             "infoheading": "test",
-            "infotext": "X Factor. At the time i was kinda apprehensive about it. But at the same time back then and even know i was soo so proud of you for doing this. You have the strength to do things i could never even attempt."
+            "infotext": "We have many many cute photos."
         },
         {
             "imageurl": "/images/Y4/3.jpg",
             "infoheading": "test",
-            "infotext": "Simona took this picture. I remember it as a fun time even though i am not completely sure what we were doing. We look great though :3."
+            "infotext": "The big 2…0 … this was also a really nice experience. Cocktails and great food."
         },
         {
             "imageurl": "/images/Y4/4.jpg",
             "infoheading": "test",
-            "infotext": "SANTA! This is the first time i met this guy i remember him being super cool. He gave me some compliments too."
+            "infotext": "I absolutely love this picture. It is one of my all time favs. Its in Devin and your brother took it. We both look so happy and content."
         },
         {
             "imageurl": "/images/Y4/5.jpg",
             "infoheading": "test",
-            "infotext": "50 shades. Do i even need to go into detail why we went to see the movie. I remember us both being into the books. Also those books in many ways influenced parts of our relationship (mr bean with eyebrows gif)"
+            "infotext": "As the years progress i can see you becoming more comfortable. You take more pictures of you and look stunning i am so proud of you."
         },
         {
             "imageurl": "/images/Y4/6.jpg",
             "infoheading": "test",
-            "infotext": "Our first “Аз мога” together. We were such small kids back then. I remember the cake and burning the couch in the lil house."
+            "infotext": "This is from the birthday again."
         },
         {
             "imageurl": "/images/Y4/7.jpg",
             "infoheading": "test",
-            "infotext": "I AM IN THIS PICTURE. I came to support you even though i remember being scared to death of all the unknowns. You were wonderful and i found out i like concerts."
+            "infotext": "Cute, cozy, sweet. A killer combo."
         },
         {
             "imageurl": "/images/Y4/8.jpg",
             "infoheading": "test",
-            "infotext": "Wait?? What do you mean thats not a picture of you and me??"
+            "infotext": "Fall vibes. The reality here is that when we dont have many photos together in a year i like to show you of :3."
         },
         {
             "imageurl": "/images/Y4/9.jpg",
             "infoheading": "test",
-            "infotext": "This is one of the many random pictures we have together. I dont remember the exact day and i dont remember what we did. But we are super cute."
+            "infotext": "THIS IS MY GIRLFRIEND I CANNOT BELIEVE IT."
         },
         {
             "imageurl": "/images/Y4/10.jpg",
             "infoheading": "test",
-            "infotext": "Your first birthday where we were together. It was the perfect birthday. Ate good pizza, laughed and drank (good?) beer later."
+            "infotext": "I wanted to pop the balloon even back then (this urge comes back in later years) they look so popable!"
         }
     ]
 }

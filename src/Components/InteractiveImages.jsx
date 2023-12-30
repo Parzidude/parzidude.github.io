@@ -18,8 +18,8 @@ const InteractiveImages = ({ data, buttonclicks }) => {
       style={{ backgroundImage: `url(${data.BackgroundImage})` }}
     >
       <div className="generaltext">
-        <h1>{data.YearHeading}</h1>
-        <p>{data.Yearsubhead}</p>
+        <h1 style={{ color: data.headingcolor }}>{data.YearHeading}</h1>
+        <p style={{ color: data.headingcolor }}>{data.Yearsubhead}</p>
       </div>
       <div className="imagecontainer">
         {data.info.map((val, index) => {
