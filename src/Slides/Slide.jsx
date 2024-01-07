@@ -34,51 +34,56 @@ const Slide = ({ interactiveimagedata }) => {
     }
   };
 
-  // const infoimageclicked = () => {
-  //   inforef.current.classList.remove("grow");
-  //   tintref.current.style.visibility = "hidden";
-  //   bigimageref.current.style.visibility = "visible";
-  // };
-  return (
-    <div className="slide">
-      <div ref={tintref} className="tint"></div>
-      {/* <div
-        ref={bigimageref}
-        style={{
-          backgroundImage: `url(${interactiveimagedata.info[selectedimage].imageurl})`,
-        }}
-        className="bigimage"
-      ></div> */}
+  if (interactiveimagedata.info.length === 0) {
+    return (
       <div
-        ref={inforef}
-        className="infobox"
+        className="interactiveimages"
         style={{
-          backgroundColor: interactiveimagedata.polaroidcolor,
+          backgroundImage: `url(${interactiveimagedata.BackgroundImage})`,
         }}
       >
-        <div>
-          <img
-            className="infoimage"
-            src={interactiveimagedata.info[selectedimage].imageurl}
-            style={{
-              objectPosition:
-                interactiveimagedata.info[selectedimage].infoimageoffset,
-            }}
-          ></img>
+        <div className="generaltext">
+          <h1 style={{ color: interactiveimagedata.headingcolor }}>
+            {interactiveimagedata.YearHeading}
+          </h1>
+          <p style={{ color: interactiveimagedata.headingcolor }}>
+            {interactiveimagedata.Yearsubhead}
+          </p>
         </div>
-        {/* <h1 style={{ color: interactiveimagedata.polaroidheadingcolor }}>
-          {interactiveimagedata.info[selectedimage].infoheading}
-        </h1> */}
-        <p style={{ color: interactiveimagedata.polaroidtextcolor }}>
-          {interactiveimagedata.info[selectedimage].infotext}
-        </p>
       </div>
-      <InteractiveImages
-        data={interactiveimagedata}
-        buttonclicks={onbuttonclick}
-      />
-    </div>
-  );
+    );
+  } else {
+    return (
+      <div className="slide">
+        <div ref={tintref} className="tint"></div>
+        <div
+          ref={inforef}
+          className="infobox"
+          style={{
+            backgroundColor: interactiveimagedata.polaroidcolor,
+          }}
+        >
+          <div>
+            <img
+              className="infoimage"
+              src={interactiveimagedata.info[selectedimage].imageurl}
+              style={{
+                objectPosition:
+                  interactiveimagedata.info[selectedimage].infoimageoffset,
+              }}
+            ></img>
+          </div>
+          <p style={{ color: interactiveimagedata.polaroidtextcolor }}>
+            {interactiveimagedata.info[selectedimage].infotext}
+          </p>
+        </div>
+        <InteractiveImages
+          data={interactiveimagedata}
+          buttonclicks={onbuttonclick}
+        />
+      </div>
+    );
+  }
 };
 
 Slide.propTypes = {

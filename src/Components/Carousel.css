@@ -5,7 +5,7 @@
     align-items: center;
     justify-content: space-evenly;
     gap:1px;
-    transition: transform 20s ease-in-out;
+    transition: transform 120s ease-in-out;
     filter: blur(3px) brightness(50%);
     margin: 0;
   }

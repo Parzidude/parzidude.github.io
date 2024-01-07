@@ -16,6 +16,7 @@ import datay7 from "../assets/Year7.json";
 import datay8 from "../assets/Year8.json";
 import datay9 from "../assets/Year9.json";
 import datay10 from "../assets/Year10.json";
+import datay11 from "../assets/Year11.json";
 import Slide from "../Slides/Slide";
 
 export default function PageSlides() {
@@ -55,6 +56,9 @@ export default function PageSlides() {
         </FullpageSection>
         <FullpageSection>
           <Slide interactiveimagedata={datay10} />
+        </FullpageSection>
+        <FullpageSection>
+          <Slide interactiveimagedata={datay11} />
         </FullpageSection>
       </FullPageSections>
     </Fullpage>
