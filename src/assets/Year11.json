@@ -2,9 +2,21 @@
     "polaroidheadingcolor":"black",
     "polaroidtextcolor":"black",
     "polaroidcolor": "#C7CEDB",
-    "BackgroundImage":"/images/Y10/Y10Bg.jpg",
+    "BackgroundImage":"/images/Y11/Y11Bg.jpg",
     "YearHeading":"Year 11 - 2024",
     "Yearsubhead":"IN PROGRESS",
     "info":[
+        {
+            "imageurl": "/images/Y11/1.jpg",
+            "infoheading": "test",
+            "infotext": "",
+            "infoimageoffset":"0px -120px"
+        },
+        {
+            "imageurl": "/images/Y11/2.jpg",
+            "infoheading": "test",
+            "infotext": "",
+            "infoimageoffset":"0px -120px"
+        }
     ]
 }
